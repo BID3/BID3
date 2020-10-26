@@ -24,3 +24,4 @@ $mvn exec:java -Dexec.args="PATH/TO/PROJECT" (Example: $mvn exec:java -Dexec.arg
 
 There will be a *Results.json* under the folder *MisuseDetection*
 
+We also put all detected misuses in our paper in (https://github.com/BID3/BID3/tree/master/APIMisuseDetection/PaperResults.json)
